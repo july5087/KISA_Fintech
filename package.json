@@ -1,0 +1,27 @@
+{
+  "name": "fintech20200921",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http_server.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "multer": "^1.4.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/july5087/KISA_Fintech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/july5087/KISA_Fintech/issues"
+  },
+  "homepage": "https://github.com/july5087/KISA_Fintech#readme"
+}
